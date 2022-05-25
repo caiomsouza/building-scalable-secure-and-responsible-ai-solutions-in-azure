@@ -39,4 +39,5 @@ Azure Machine Learning Security
 https://github.com/caiomsouza/azure-machine-learning-security
 
 ### Responsible AI
-
+https://fairlearn.org/
+https://interpret.ml/
