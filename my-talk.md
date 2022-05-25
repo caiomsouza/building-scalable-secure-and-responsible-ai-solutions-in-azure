@@ -1,14 +1,14 @@
 ### Building Scalable, Secure and Responsible AI Solutions in Azure
-Organizations are evolving and are becoming AI driven organisations.
-Join us to learn how Data Science teams can build Scalable, Secure and Responsible AI Solutions in Azure and deploy Machine Learning models to production at Scale.
-We will explore topics like:
-•	How to become an Azure Data Scientist
-•	Building an elite Data Science team
-•	The AI/ML Journey
-•	Building an AI/ML Platform
-•	ML Ops (Machine Learnings Ops)
-•	Responsible AI (Artificial Intelligence)
-•	AI/ML Security
+Organizations are evolving and are becoming AI driven organisations.<BR>
+Join us to learn how Data Science teams can build Scalable, Secure and Responsible AI Solutions in Azure and deploy Machine Learning models to production at Scale.<BR>
+We will explore topics like:<BR>
+* How to become an Azure Data Scientist
+*	Building an elite Data Science team
+*	The AI/ML Journey
+*	Building an AI/ML Platform
+*	ML Ops (Machine Learnings Ops)
+*	Responsible AI (Artificial Intelligence)
+*	AI/ML Security
 
 
 ### My bio
