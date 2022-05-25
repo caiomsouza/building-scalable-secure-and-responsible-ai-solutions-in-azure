@@ -18,6 +18,7 @@ For the companies in the Production phase it is important to invest time to unde
 
 Here are some links to help your Data Science team:
 
+### MLOps
 MLOps explained | Machine Learning Essentials
 https://www.youtube.com/watch?v=ZVWg18AXXuE
 
@@ -27,5 +28,15 @@ https://www.youtube.com/watch?v=uKryRn6v0w8
 Azure MLOps - DevOps for Machine Learning
 https://www.youtube.com/playlist?list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f
 
+MLOps with Azure ML
+https://github.com/microsoft/MLOpsPython
+
+MLOps v2
+https://github.com/Azure/mlops-v2
+
+### AI/ML Security
 Azure Machine Learning Security
 https://github.com/caiomsouza/azure-machine-learning-security
+
+### Responsible AI
+
