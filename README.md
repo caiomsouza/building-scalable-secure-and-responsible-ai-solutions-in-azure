@@ -4,7 +4,7 @@ Organizations are evolving and are becoming AI driven organisations.
 
 This repo aims to help Data Science teams to build Scalable, Secure and Responsible AI Solutions in Azure.
 
-The AI journey can be devied into 2 parts:
+The AI journey can be divided into 2 parts:
 1. Experimentation 
 2. Production
 
