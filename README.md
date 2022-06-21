@@ -4,6 +4,10 @@ Organizations are evolving and are becoming AI driven organisations.
 
 This repo aims to help Data Science teams to build Scalable, Secure and Responsible AI Solutions in Azure.
 
+![Data Hour Presentation](https://github.com/caiomsouza/azure-machine-learning-workshop/blob/main/pdf_data_hour_presentation_21062022.png)
+[PDF Slides: Building Scalable, Secure and Responsible AI Solutions in Azure](https://github.com/caiomsouza/azure-machine-learning-workshop/blob/main/Building%20Scalable%2C%20Secure%20and%20Responsible%20AI%20Solutions%20in%20Azure_CM_21June2022_DataHour_Microsoft.pdf)
+
+
 The AI journey can be divided into 2 parts:
 1. Experimentation 
 2. Production
