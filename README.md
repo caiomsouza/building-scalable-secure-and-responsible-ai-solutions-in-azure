@@ -7,6 +7,9 @@ This repo aims to help Data Science teams to build Scalable, Secure and Responsi
 ![Data Hour Presentation](https://github.com/caiomsouza/azure-machine-learning-workshop/blob/main/pdf_data_hour_presentation_21062022.png)
 [PDF Slides: Building Scalable, Secure and Responsible AI Solutions in Azure](https://github.com/caiomsouza/azure-machine-learning-workshop/blob/main/Building%20Scalable%2C%20Secure%20and%20Responsible%20AI%20Solutions%20in%20Azure_CM_21June2022_DataHour_Microsoft.pdf)
 
+https://www.youtube.com/watch?v=DPRj9tGWpuM&t=31s
+
+[![Building Scalable, Secure and Responsible AI Solutions in Azure](https://img.youtube.com/vi/DPRj9tGWpuM/0.jpg)](https://www.youtube.com/watch?v=DPRj9tGWpuM "Building Scalable, Secure and Responsible AI Solutions in Azure")
 
 The AI journey can be divided into 2 parts:
 1. Experimentation 
